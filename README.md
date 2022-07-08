@@ -31,7 +31,7 @@
  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RenanBonfim13/count.svg" /></p>
 
-![snake gif](https://github.com/RenanBonfim13/RenanBomfim13/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RenanBonfim13/FormandoDev/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> Renan Bonfim
   
