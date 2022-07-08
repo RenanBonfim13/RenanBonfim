@@ -17,10 +17,7 @@
  <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="RenanBonfim13-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Reen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Reen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Reen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Reen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Reen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  </div>
 </br>
@@ -34,7 +31,7 @@
  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RenanBonfim13/count.svg" /></p>
 
-![snake gif](https://github.com/RenanBonfim13/FormandoDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RenanBonfim13/RenanBomfim13/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> Renan Bonfim
   
