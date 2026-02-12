@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage 
+  SchemaVersion="1.0" 
+  AutodeskProduct="Civil 3D" 
+  ProductType="Application" 
+  Name="Civil3DPointLine" 
+  Description="Plugin para criar linhas a partir de pontos do Civil 3D"
+  Author="Renan Bonfim"
+  AppVersion="1.0.0"
+  ProductCode="{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}">
+  
+  <CompanyDetails 
+    Name="Renan Bonfim" 
+    Email="renanbonfim13@gmail.com" 
+    Url="https://github.com/RenanBonfim13"/>
+  
+  <Components Description="Civil3D Point to Line Plugin">
+    <RuntimeRequirements 
+      SeriesMin="R24.1" 
+      SeriesMax="R24.1" 
+      Platform="AutoCAD" 
+      OS="Win64"/>
+    
+    <ComponentEntry 
+      AppName="Civil3DPointLine" 
+      Version="1.0.0" 
+      ModuleName="./Contents/Civil3DPointLine.dll"
+      AppDescription="Cria linhas conectando pontos COGO do Civil 3D">
+      
+      <Commands GroupName="Civil3D Point Line">
+        <Command Global="POINTLINE" Local="POINTLINE"/>
+        <Command Global="POINTLINE_SEGMENTS" Local="POINTLINE_SEGMENTS"/>
+      </Commands>
+    </ComponentEntry>
+  </Components>
+</ApplicationPackage>
