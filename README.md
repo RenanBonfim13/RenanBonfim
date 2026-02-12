@@ -17,8 +17,24 @@
  <div align="center">
 <div style="display: inline_block"><br>
     <img align="center" alt="Reen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Reen-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  </div>
+</br>
+
+## 🚀 Projetos
+
+### [Civil3D Point to Line Plugin](./Civil3DPointLine)
+Plugin para AutoCAD Civil 3D 2026 que permite criar linhas automaticamente a partir de pontos topográficos (CogoPoints).
+
+**Funcionalidades:**
+- ✅ Comando `POINTLINE` - Cria polyline contínua conectando pontos
+- ✅ Comando `POINTLINE_SEGMENTS` - Cria segmentos de linha individuais
+- ✅ Suporte para múltiplos pontos COGO
+- ✅ Informações detalhadas de comprimento e segmentos
+
+[📖 Documentação completa](./Civil3DPointLine/README.md) | [🚀 Guia de Instalação](./Civil3DPointLine/INSTALLATION.md) | [📝 Exemplos](./Civil3DPointLine/EXAMPLES.md)
+
 </br>
 
 <div> 
